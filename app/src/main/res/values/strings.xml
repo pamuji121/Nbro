@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ujian SMPN 45</string>
+    <string name="error_title">Tidak dapat terhubung</string>
+    <string name="error_message">Periksa koneksi internet / WiFi sekolah,\nlalu coba lagi.</string>
+    <string name="retry">Coba Lagi</string>
+</resources>
